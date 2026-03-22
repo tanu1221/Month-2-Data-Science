@@ -1,0 +1,7 @@
+Top 5 Insights:
+
+1. Customers with higher monthly charges churn more.
+2. Customers with shorter tenure are more likely to churn.
+3. Contract type strongly affects churn behavior.
+4. Higher spending customers show different churn patterns.
+5. Correlation analysis highlights key factors influencing churn.
